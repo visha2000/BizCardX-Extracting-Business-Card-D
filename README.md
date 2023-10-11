@@ -1,1 +1,1 @@
-# BizCardX-Extracting-Business-Card-D
+# BizCardX Extracting Business Card Data
